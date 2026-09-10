@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "claudemath"
-version = "0.1"
+version = "0.5"
 description = "A comprehensive, advanced pure-Python mathematics library featuring 1,400+ mathematical algorithms across 20 mathematical domains."
 readme = "README.md"
 requires-python = ">=3.8"
